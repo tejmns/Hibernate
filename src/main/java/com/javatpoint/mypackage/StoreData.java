@@ -22,7 +22,7 @@ public class StoreData {
         Transaction t=session.beginTransaction();
 
         Employee e1=new Employee();
-        e1.setId(115);
+        e1.setId(15);
         e1.setFirstName("sonoo");
         e1.setLastName("jaiswal");
 
